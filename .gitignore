@@ -2,3 +2,5 @@ DotNetBugs/StructsEqualsBug/bin/Debug/StructsEqualsBug.vshost.exe
 DotNetBugs/StructsEqualsBug/bin/Debug/StructsEqualsBug.vshost.exe.manifest
 DotNetBugs/StructsEqualsBug/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 DotNetBugs/DotNetBugs.v11.suo
+DotNetBugs/StructsEqualsBug/bin/*
+DotNetBugs/StructsEqualsBug/obj/
